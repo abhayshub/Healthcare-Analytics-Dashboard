@@ -98,16 +98,16 @@ The dataset contains healthcare records with the following fields:
 
 The project includes SQL queries to answer business questions such as:
 
-Count and percentage of male vs. female patients, along with the average obsession score by gender.
-Patient distribution by ethnicity and the corresponding average obsession score.
-Month-over-month (MoM) trend of OCD diagnoses.
-Most common obsession types and their average obsession scores.
-Most common compulsion types and their average obsession scores.
-Patient distribution by education level.
-Patient distribution by marital status.
-Anxiety diagnosis distribution with patient percentages.
-Family history of OCD analysis with average obsession scores.
-Average obsession score by medication type.
+*Count and percentage of male vs. female patients, along with the average obsession score by gender.
+*Patient distribution by ethnicity and the corresponding average obsession score.
+*Month-over-month (MoM) trend of OCD diagnoses.
+*Most common obsession types and their average obsession scores.
+*Most common compulsion types and their average obsession scores.
+*Patient distribution by education level.
+*Patient distribution by marital status.
+*Anxiety diagnosis distribution with patient percentages.
+*Family history of OCD analysis with average obsession scores.
+*Average obsession score by medication type.
 
 ---
 
